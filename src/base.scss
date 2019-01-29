@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Monoton");
+@import url("https://fonts.googleapis.com/css?family=Major+Mono+Display");
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: azure;
+}
+
+h1 {
+  font-family: "Monoton", cursive;
+  font-size: 3em;
+  color: rgb(70, 68, 68);
+}
+
+.counter {
+  font-size: 4em;
+  font-family: "Major Mono Display", monospace;
+  margin: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(70, 68, 68);
+  background-color: floralwhite;
+  border: 2px solid rgb(235, 230, 230);
+  margin: 20px;
+}
