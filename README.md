@@ -4,10 +4,13 @@
 
 ### Links and Resources
 
+![Build Status](https://travis-ci.com/beccalee123/lab27-testing-and-deployment.svg?branch=master)
+
 - [code sandbox site](https://74nj6xoj66.codesandbox.io/)
 - [code sandbox repo](https://codesandbox.io/s/74nj6xoj66)
 - [github repo](https://github.com/beccalee123/27-testing-and-deployment)
 - [AWS bucket hosted site](http://counter-app-becca.s3-website-us-west-2.amazonaws.com/#)
+- [travis](https://travis-ci.com/beccalee123/lab27-testing-and-deployment)
 
 ### Modules
 
